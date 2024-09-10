@@ -1,6 +1,4 @@
-Here's a `README.md` for your CRM statistics dashboard project. This file explains how to set up and run the project, along with other important details.
 
-### `README.md`
 
 ```markdown
 # CRM Statistics Dashboard
