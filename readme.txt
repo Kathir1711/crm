@@ -1,6 +1,5 @@
 
 
-```markdown
 # CRM Statistics Dashboard
 
 A responsive CRM statistics dashboard built using Next.js, ReactJS, Tailwind CSS, and Chart.js. The dashboard displays various statistics using visual elements like pie charts, bar charts, and cards. It also includes a time selector to filter statistics by different time windows (e.g., 1 day, 1 week, 1 month, etc.). Dummy APIs are used to populate the page with data.
